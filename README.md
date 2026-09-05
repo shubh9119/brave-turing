@@ -207,7 +207,7 @@ This project features bespoke support for both **Light and Dark modes** powered 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/shushantk890/brave-turing.git
+git clone https://github.com/shubh9119/brave-turing.git
 cd brave-turing
 ```
 
